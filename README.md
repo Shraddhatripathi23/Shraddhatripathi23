@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shraddha Tripathi</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer </h3>
 
-- 🔭 I’m currently working on **python**
+- 🔭 I’m currently working on **Python , CPP**
 
 - 🌱 I’m currently learning **python , django , mysql , AI , machine learning**
 
-- 👯 I’m looking to collaborate on **python**
+- 👯 I’m looking to collaborate on **Python ,CPP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shraddhatripathi23/](https://github.com/Shraddhatripathi23/)
 
