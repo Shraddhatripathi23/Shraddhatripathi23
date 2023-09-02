@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Python , CPP**
 
-- 🌱 I’m currently learning **python , django , mysql , AI , machine learning**
+- 🌱 I’m currently learning **python, django, mysql, AI, machine learning**
 
-- 👯 I’m looking to collaborate on **Python ,CPP**
+- 👯 I’m looking to collaborate on **Python, CPP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shraddhatripathi23/](https://github.com/Shraddhatripathi23/)
 
